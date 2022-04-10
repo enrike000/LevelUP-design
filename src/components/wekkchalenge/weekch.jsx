@@ -1,10 +1,9 @@
 import { Button, Typography } from "@mui/material";
-import { Box, fontFamily } from "@mui/system";
+import { Box } from "@mui/system";
 import React from "react";
 import baner from "./../../images/banner.jpg";
 import tab from "./../../images/tab-bg-active.png";
 import tabdisable from "./../../images/tab-bg.png";
-import lock from "./../../images/lock.png";
 
 const WeekChallenge = () => {
   return (

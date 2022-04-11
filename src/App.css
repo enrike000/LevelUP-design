@@ -14,7 +14,7 @@
 
 .prize {
   height: 200px;
-  width: 400px;
+  width: 300px;
 }
 .borderbg{
   width: 100%;
@@ -29,33 +29,7 @@
   width: 15px;
   height: 25px;
 }
-/* .tab{
-  position: relative;
-  margin-top: 490px;
-  margin-left: 45px;
- 
-}
-.tabdisable{
-  position: relative;
-  margin-top: 490px;
-  margin-left: 25px;
-  
 
-}
-.tabdisable1{
-  position: relative;
-  margin-top: 490px;
-  margin-left: 25px;
-
-
-}
-.tabdisable2{
-  position: relative;
-  margin-top: 490px;
-  margin-left: 25px;
-margin-right: 45px;
-
-} */
 body,
 div,
 span,

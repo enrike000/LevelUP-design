@@ -19,7 +19,9 @@ const Footer = () => {
             borderRadius: 1,
           }}
         >
-          <Button sx={{ fontSize: "13px", color: "#FFFFFF" }}>
+          <Button
+            sx={{ fontSize: "14px", color: "#FFFFFF", fontFamily: "NinoMtav" }}
+          >
             <ArrowBackIosNewIcon sx={{ color: "#FFFFFF" }} />
             ᲬᲘᲜᲐ ᲐᲥᲪᲘᲐ
           </Button>
@@ -27,15 +29,18 @@ const Footer = () => {
             variant="contained"
             sx={{
               bgcolor: "#F05A22",
-              fontSize: "13px",
+              fontSize: "15px",
               color: "#FFFFFF",
               height: "48px",
               width: "170px",
+              fontFamily: "NinoMtav",
             }}
           >
             Place a bet
           </Button>
-          <Button sx={{ fontSize: "13px", color: "#FFFFFF" }}>
+          <Button
+            sx={{ fontSize: "14px", color: "#FFFFFF", fontFamily: "NinoMtav" }}
+          >
             ᲨᲔᲛᲓᲔᲒᲘ ᲐᲥᲪᲘᲐ
             <ArrowForwardIosIcon sx={{ color: "#FFFFFF" }} />
           </Button>

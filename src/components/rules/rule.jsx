@@ -10,7 +10,9 @@ const Rule = () => {
   return (
     <>
       <Box>
-        <Typography sx={{ color: "white", textAlign: "center" }}>
+        <Typography
+          sx={{ color: "white", textAlign: "center", fontFamily: "NinoMtav" }}
+        >
           წესები და პირობები
         </Typography>
         <Box sx={{ ml: "45px", mr: "43px", mt: "34px" }}>
@@ -19,7 +21,13 @@ const Rule = () => {
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
             >
-              <Typography sx={{ color: "white", fontSize: "15px" }}>
+              <Typography
+                sx={{
+                  color: "white",
+                  fontSize: "15px",
+                  fontFamily: "NinoMtav",
+                }}
+              >
                 როდის იწყება და რა ფორმატით გაიმართება აქცია
               </Typography>
             </AccordionSummary>
@@ -32,7 +40,13 @@ const Rule = () => {
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
             >
-              <Typography sx={{ color: "white", fontSize: "15px" }}>
+              <Typography
+                sx={{
+                  color: "white",
+                  fontSize: "15px",
+                  fontFamily: "NinoMtav",
+                }}
+              >
                 როგორ მივიღო აქციაში მონაწილეობა?
               </Typography>
             </AccordionSummary>
@@ -45,7 +59,13 @@ const Rule = () => {
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
             >
-              <Typography sx={{ color: "white", fontSize: "15px" }}>
+              <Typography
+                sx={{
+                  color: "white",
+                  fontSize: "15px",
+                  fontFamily: "NinoMtav",
+                }}
+              >
                 სხვადასვა
               </Typography>
             </AccordionSummary>

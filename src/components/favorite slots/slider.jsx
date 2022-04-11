@@ -5,10 +5,26 @@ import Slot3 from "../favorite slots/thumb/WolfGold.jpg";
 import Slot4 from "../favorite slots/thumb/GemsBonanza.jpg";
 import Slot5 from "../favorite slots/thumb/MadameDestiny.jpg";
 import Slot6 from "../favorite slots/thumb/SpartanKing.jpg";
+import Slot7 from "../favorite slots/thumb/MustangGold.jpg";
+import Slot8 from "../favorite slots/thumb/releaseKraken.jpg";
+import Slot9 from "../favorite slots/thumb/TheDogHouse.jpg";
+import Slot10 from "../favorite slots/thumb/SpartanKing.jpg";
+
 import { Box } from "@mui/system";
 
 const Slots = () => {
-  const img = [Slot1, Slot2, Slot3, Slot4, Slot5, Slot6];
+  const img = [
+    Slot1,
+    Slot2,
+    Slot3,
+    Slot4,
+    Slot5,
+    Slot6,
+    Slot7,
+    Slot8,
+    Slot9,
+    Slot10,
+  ];
 
   return (
     <Box

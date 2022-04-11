@@ -48,6 +48,7 @@ const LeaderBoard = () => {
             top: "50%",
             left: "46%",
             transform: "translateX(-50%)",
+            // eslint-disable-next-line no-dupe-keys
             transform: "scale(1.5)",
           }}
         >

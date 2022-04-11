@@ -17,7 +17,7 @@ const TiTle = () => {
               color: "white",
               fontSize: "17px",
               mr: "40%",
-              fontFamily: "NinoMtav",
+              fontFamily: "europebet",
             }}
           >
             10 ᲘᲐᲜᲕᲠᲘᲓᲐᲜ - 12 ᲛᲐᲠᲢᲐᲛᲓᲔ
@@ -36,7 +36,7 @@ const TiTle = () => {
               bgcolor: "#585864",
               width: "93px",
               height: "27px",
-              fontFamily: "glaho",
+              fontFamily: "europebet",
             }}
           >
             სლოტები
@@ -46,7 +46,7 @@ const TiTle = () => {
               mt: "21px",
               color: "white",
               fontSize: "30px",
-              fontFamily: "NinoMtav",
+              fontFamily: "europebet",
             }}
           >
             PRAGMATIC-ის რჩეულ სლოტებში დიდი <br /> ფულადი პრიზები და ქეშდროფები
@@ -57,7 +57,7 @@ const TiTle = () => {
               mt: "15.5px",
               color: "white",
               fontSize: "18px",
-              fontFamily: "NinoMtav",
+              fontFamily: "europebet",
             }}
           >
             52 კვირის განმავლობაში, მიიღე ფულადი პრიზები <br /> ყოველკვირეული

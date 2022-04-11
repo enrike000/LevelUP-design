@@ -12,7 +12,7 @@ const Page1 = () => {
     <>
       <Box
         sx={{
-          height: "2437px",
+          height: "1",
           bgcolor: "#141529",
         }}
       >
@@ -28,11 +28,11 @@ const Page1 = () => {
           <LeaderBoard />
         </Box>
 
-        <Box>
+        <Box sx={{ mt: "100px" }}>
           <FavoriteSlots />
         </Box>
 
-        <Box>
+        <Box sx={{ mt: "100px" }}>
           <Rule />
         </Box>
 

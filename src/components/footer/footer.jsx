@@ -14,13 +14,13 @@ const Footer = () => {
             display: "flex",
             justifyContent: "space-between",
             p: 1,
-            m: 1,
+
             bgcolor: "background.paper",
             borderRadius: 1,
           }}
         >
           <Button
-            sx={{ fontSize: "14px", color: "#FFFFFF", fontFamily: "NinoMtav" }}
+            sx={{ fontSize: "14px", color: "#FFFFFF", fontFamily: "europebet" }}
           >
             <ArrowBackIosNewIcon sx={{ color: "#FFFFFF" }} />
             ᲬᲘᲜᲐ ᲐᲥᲪᲘᲐ
@@ -33,13 +33,13 @@ const Footer = () => {
               color: "#FFFFFF",
               height: "48px",
               width: "170px",
-              fontFamily: "NinoMtav",
+              fontFamily: "europebet",
             }}
           >
             Place a bet
           </Button>
           <Button
-            sx={{ fontSize: "14px", color: "#FFFFFF", fontFamily: "NinoMtav" }}
+            sx={{ fontSize: "14px", color: "#FFFFFF", fontFamily: "europebet" }}
           >
             ᲨᲔᲛᲓᲔᲒᲘ ᲐᲥᲪᲘᲐ
             <ArrowForwardIosIcon sx={{ color: "#FFFFFF" }} />

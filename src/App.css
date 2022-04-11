@@ -10,6 +10,14 @@
   font-family: "test";
   src: url("../public/fonts/lgv-bebas-neue-bold-bold.ttf");
 }
+@font-face {
+  font-family: "europebet";
+  src: url("../public/fonts/Linotype-HelveticaNeueLTGEO55Roman.otf");
+}
+.photo{
+  width: 200px;
+  height: 200px;
+}
 
 
 .prize {
@@ -151,4 +159,26 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #202134;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #5ECEB0;
+  border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #308d74;
 }

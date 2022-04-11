@@ -36,11 +36,13 @@ const WeekChallenge = () => {
                     pr: "45",
                     color: "white",
                     pb: "30px",
-                    fontFamily: "NinoMtav",
+                    fontFamily: "europebet",
                   }}
                 >
                   1-4 კვირა <br />{" "}
-                  <Typography sx={{ fontSize: "30px", fontFamily: "NinoMtav" }}>
+                  <Typography
+                    sx={{ fontSize: "30px", fontFamily: "europebet" }}
+                  >
                     2 000 000₾
                   </Typography>
                 </Typography>
@@ -120,7 +122,7 @@ const WeekChallenge = () => {
                       pr: "45",
                       color: "#D5D5D5",
                       pb: "30px",
-                      fontFamily: "NinoMtav",
+                      fontFamily: "europebet",
                       pl: "45px",
                     }}
                   >
@@ -142,7 +144,7 @@ const WeekChallenge = () => {
               fontSize: "30px",
               textAlign: "center",
               color: "white",
-              fontFamily: "NinoMtav",
+              fontFamily: "europebet",
             }}
           >
             12 კვირის განმავლობაში, მიიღე ფულადი პრიზები <br /> ყოველკვირეული

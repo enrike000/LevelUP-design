@@ -27,11 +27,21 @@ export default function Cxrili1() {
           <Table aria-label="caption table">
             <TableHead>
               <TableRow sx={{}}>
-                <TableCell sx={{ color: "#56606C", textAlign: "center" }}>
+                <TableCell
+                  sx={{
+                    color: "#56606C",
+                    textAlign: "center",
+                    fontFamily: "europebet",
+                  }}
+                >
                   რაოდენობა
                 </TableCell>
                 <TableCell
-                  sx={{ color: "#56606C", textAlign: "center" }}
+                  sx={{
+                    color: "#56606C",
+                    textAlign: "center",
+                    fontFamily: "europebet",
+                  }}
                   align="right"
                 >
                   პრიზი

@@ -11,7 +11,7 @@ const Rule = () => {
     <>
       <Box>
         <Typography
-          sx={{ color: "white", textAlign: "center", fontFamily: "NinoMtav" }}
+          sx={{ color: "white", textAlign: "center", fontFamily: "europebet" }}
         >
           წესები და პირობები
         </Typography>
@@ -25,7 +25,7 @@ const Rule = () => {
                 sx={{
                   color: "white",
                   fontSize: "15px",
-                  fontFamily: "NinoMtav",
+                  fontFamily: "europebet",
                 }}
               >
                 როდის იწყება და რა ფორმატით გაიმართება აქცია
@@ -44,7 +44,7 @@ const Rule = () => {
                 sx={{
                   color: "white",
                   fontSize: "15px",
-                  fontFamily: "NinoMtav",
+                  fontFamily: "europebet",
                 }}
               >
                 როგორ მივიღო აქციაში მონაწილეობა?
@@ -63,7 +63,7 @@ const Rule = () => {
                 sx={{
                   color: "white",
                   fontSize: "15px",
-                  fontFamily: "NinoMtav",
+                  fontFamily: "europebet",
                 }}
               >
                 სხვადასვა
